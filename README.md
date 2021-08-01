@@ -1,0 +1,1 @@
+well i have a problem with spootify: after windows has loaded, it is working, but refuse to load any new page. so this programm is just for reload spotify properly
